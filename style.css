@@ -1,0 +1,31 @@
+*{
+	font-family: helvetica;
+}
+.modal{
+	border: 1px solid #282828 !important;
+}
+button{
+	border: 0;
+	background-color: green;
+	color: white;
+	padding: 5px;
+}
+#displayElements{
+	margin-top: 5px;
+	padding: 5px;
+	box-shadow: 5px 5px #282828;
+	width: 80%;
+
+}
+#displayElements, td{
+	border: 1px solid #282828;
+	
+}
+.container{
+	display: flex;
+	align-content: space-evenly;
+	
+	justify-content: center;
+	align-items: center;
+
+}
